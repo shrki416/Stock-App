@@ -1,0 +1,19 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "A Fantasy Stock Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrki416/Stock-App.git"
+  },
+  "author": "AA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrki416/Stock-App/issues"
+  },
+  "homepage": "https://github.com/shrki416/Stock-App#readme"
+}
